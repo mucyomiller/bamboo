@@ -11,6 +11,7 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/',['as'=>'frontend.index','uses'=>'FrontendController@index']);
+Route::get('menu',['as'=>'frontend.menu','uses'=>'FrontendController@menu']);
+Route::get('contact',['as'=>'frontend.contact','uses'=>'FrontendController@contact']);
+Route::get('reservation',['as'=>'frontend.reservation','uses'=>'FrontendController@reservation']);
