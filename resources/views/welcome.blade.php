@@ -38,7 +38,7 @@ data-elementdelay="0.01"
 data-endelementdelay="0.1"
 data-endspeed="500"
 data-endeasing="Power4.easeIn"
-style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">A special dining environment</div>
+style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Your satisfaction is our joy</div>
 </li>
 <!-- SLIDE  -->
 <li data-transition="slidevertical" data-slotamount="1" data-masterspeed="1000" data-thumb="img/home-slider/02-thump.jpg"  data-saveperformance="off"  data-title="Slide">
@@ -58,7 +58,7 @@ data-elementdelay="0.01"
 data-endelementdelay="0.1"
 data-endspeed="500"
 data-endeasing="Power4.easeIn"
-style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">Bowl Of Chili <br /> 
+style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">special menu <br /> 
 <div class="hr-line"><i class="mdi-action-star-rate"></i></div> </div>
 <!-- LAYER NR. 2 -->
 <div class="tp-caption light_medium_30_shadowed lfb ltt tp-resizeme"
@@ -93,7 +93,7 @@ data-elementdelay="0.01"
 data-endelementdelay="0.1"
 data-endspeed="500"
 data-endeasing="Power4.easeIn"
-style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">French Onion Soup  <br /> 
+style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">nyamacoma & african foods  <br /> 
 <div class="hr-line"><i class="mdi-action-star-rate"></i></div>         </div>
 <!-- LAYER NR. 2 -->
 <div class="tp-caption light_medium_30_shadowed lfb ltt tp-resizeme"
@@ -198,7 +198,7 @@ Scroll down to discover more...    </div>
 <!-- // Home Slider Banner -->
 <div class="colorbg">
 <div class="container">
-<h1>A special dining restaurant</h1>
+<h1>Your satisfaction is our joy</h1>
 <p> offering American & african cuisine and warm hospitality in a rustic historically preserved building.</p>
 </div>
 </div>
