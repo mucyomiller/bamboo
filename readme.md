@@ -8,7 +8,7 @@ backend.
 
 ## Official Documentation
 
-Documentation for the system can be found on the [Bamboo website](http://github.com/mucyomiller/bamboo).
+Documentation for the system can be found on the [Bamboo website](http://www.bambooshade.rw).
 
 ## Security Vulnerabilities
 
