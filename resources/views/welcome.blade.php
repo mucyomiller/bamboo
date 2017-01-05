@@ -93,7 +93,7 @@ data-elementdelay="0.01"
 data-endelementdelay="0.1"
 data-endspeed="500"
 data-endeasing="Power4.easeIn"
-style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">nyamacoma & african foods  <br /> 
+style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">nyama choma & african foods  <br /> 
 <div class="hr-line"><i class="mdi-action-star-rate"></i></div>         </div>
 <!-- LAYER NR. 2 -->
 <div class="tp-caption light_medium_30_shadowed lfb ltt tp-resizeme"

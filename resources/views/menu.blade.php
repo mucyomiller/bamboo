@@ -12,7 +12,7 @@
 <!-- Banner Logo -->
 <div class="banner-text wow fadeInUp animated" data-wow-delay="300ms">
 <h1 class="marbot15">Our Menus</h1>
-<div class="hr-line"><i class="mdi-action-star-rate"></i></div>
+<div class="hr-line"><i class="mdi-action-star-rateimage"></i></div>
 <div class="tag padding-25-per">
 Different type of menus available here kindly check this section.
 </div>
@@ -42,16 +42,12 @@ Different type of menus available here kindly check this section.
 <!-- item 1 -->
 <div class="col l6 s12 marbot30 wow fadeInLeft animated" data-wow-delay="300ms">
 <div class="item-images">
-    <img src="img/image01.jpg" alt=" " data-wow-delay="800ms" class="wow zoomIn menu-image z-depth-1"/>
+    <a href="{{ route('frontend.menudetail') }}"><img src="img/image01.jpg" alt=" " data-wow-delay="800ms" class="wow zoomIn menu-image z-depth-1"/></a>
 </div>
 <div>
     <div class="item-title">
-        Bowl Of Chili <sup class="label">non veg</sup>
-        <span class="price">$6</span>
+        Breakfast <sup class="label">new</sup>
     </div>
-    <p>
-        Spicy beef and red bean chili topped with cheddar cheese, scallions and sour cream
-    </p>
 </div>
 </div>
 <!-- item 2 -->            

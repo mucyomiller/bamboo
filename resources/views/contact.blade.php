@@ -67,7 +67,7 @@ placeholder="* Message : " onFocus="this.placeholder = ''" onBlur="this.placehol
 <i class="mdi-action-home"></i>
 </span>
 <span class="cont-info-right">
-#12 Fifth Main Street, Bridgewater, <br/>NY 10307, USA.
+KG  Street, near chez land , <br/> Kigali Gasabo.
 </span>
 </div>
 <div class="col s12 marbot15">
@@ -75,7 +75,7 @@ placeholder="* Message : " onFocus="this.placeholder = ''" onBlur="this.placehol
 <i class="mdi-communication-email prefix"></i>
 </span>
 <span class="cont-info-right">
-<a href="#">info@examle.com</a>
+<a href="#">info@bambooshade.com</a>
 </span>
 </div>
 <div class="col s12 marbot15">
@@ -83,7 +83,7 @@ placeholder="* Message : " onFocus="this.placeholder = ''" onBlur="this.placehol
 <i class="mdi-communication-phone prefix"></i>
 </span>
 <span class="cont-info-right">
-<a href="#">+123 456 7890</a>
+<a href="#">+(250)-788-519339</a>
 </span>
 </div>
 </div>
@@ -96,9 +96,7 @@ placeholder="* Message : " onFocus="this.placeholder = ''" onBlur="this.placehol
 <a href="#" class="btn-floating waves-effect waves-light btn-large white wow rollIn animated" data-wow-delay="0.5s">
 <i class="fa fa-twitter twitter"></i>                        </a>
 <a href="#" class="btn-floating waves-effect waves-light btn-large white wow rollIn animated" data-wow-delay="0.5s">
-<i class="fa fa-youtube-play youtube"></i>                        </a>
-<a href="#" class="btn-floating waves-effect waves-light btn-large white wow rollIn animated" data-wow-delay="0.5s">
-<i class="fa fa-dribbble dribbble"></i>                        </a>                    </div>
+<i class="fa fa-youtube-play youtube"></i>                        </a>                   </div>
 </div>
 
 </div>
