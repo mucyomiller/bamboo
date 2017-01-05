@@ -16,4 +16,7 @@ class FrontendController extends Controller
     public function reservation(){
     	return view('reservation');
     }
+    public function menudetail(){
+        return view('menu-detail');
+    }
 }
