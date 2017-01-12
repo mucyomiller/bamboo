@@ -21,10 +21,10 @@
                     	our locations
                     </div>
                     <div class="footer-sub-title">
-                    	Kigali
+                    	Remera/Chez Lando
                     </div>
                     <p>
-                    	KG X, 3rd Main Street, <br />
+                    	KG 201 Street, <br />
                         Chez Lando, kigali,Rwanda.<br />
                         +(250)-788-519339
                     </p>                
