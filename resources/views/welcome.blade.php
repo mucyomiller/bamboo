@@ -410,7 +410,7 @@ Scroll down to discover more...    </div>
 Our team of <b>highly qualified professionals</b> headed by an experienced Chef. 
 </div>
 <div class="center martop30">
-<a href="about.htm" class="waves-effect waves-light btn wow fadeInRight animated" data-wow-delay="300ms">About Us</a></div>
+<a href="{{ route('frontend.contact') }}" class="waves-effect waves-light btn wow fadeInRight animated" data-wow-delay="300ms">About Us</a></div>
 </div>
 </div>
 </div>
