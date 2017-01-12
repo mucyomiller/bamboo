@@ -280,7 +280,7 @@ Scroll down to discover more...    </div>
 </a>
 <div id="modal1" class="modal">
 <div class="video-container">
-<iframe src="http://player.vimeo.com/video/19544059?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" ></iframe>
+<iframe src="#" ></iframe>
 </div>
 </div>
 </div>
@@ -307,7 +307,7 @@ Scroll down to discover more...    </div>
 <div class="mask">
 <a href="img/food-gallery1.jpg" title="Project description" data-rel="prettyPhoto[gallery1]" class="viewDetail lightbox info">
 <div class="project-overlay"></div>
-<div class="port-caption">When Goliath comes out, you should run. </div>
+<div class="port-caption">comming soon. </div>
 </a> 
 </div>
 </div>
